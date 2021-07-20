@@ -3,7 +3,7 @@ import logging
 from aiogram import Bot, Dispatcher, executor, types
 
 #Сам бот
-bot = Bot(token="XYI")
+bot = Bot(token="1911430921:AAHOxy4ePlKzjz5RcwgP4jiYXT839IDfjlI")
 #Хэндлеры теперь через него. 
 #Появились доп.варианты для работы
 dp = Dispatcher(bot)
